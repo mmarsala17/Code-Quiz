@@ -50,7 +50,7 @@ var quizQuestions = [{
     correctAnswer: "d"},
 {
     question: "When is localStorage data cleared?",
-    choiceA: "No ecpiration time",
+    choiceA: "No expiration time",
     choiceB: "On page reload",
     choiceC: "On browser close",
     choiceD: "On computer restart",
